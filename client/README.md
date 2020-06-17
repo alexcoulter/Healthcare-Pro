@@ -2135,8 +2135,7 @@ import 'moment/locale/es';
 // ...
 
 moment.locale('fr');
-```
-
+```    
 This will only work for locales that have been explicitly imported before.
 
 ### `npm run build` fails to minify
